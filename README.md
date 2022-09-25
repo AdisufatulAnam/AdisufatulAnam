@@ -2,7 +2,9 @@
 
 Perkenalkan nama saya **Adisufatul Anam**.\
 
-Saya seorang **mahasiswa di universitas teknologi digital indonesia** di [UTDI](https://www.utdi.ac.id/).\ saat ini saya sedang mengikuti studi independen kampus merdeka dengan mitra [DICODING](https://www.dicoding.com/).\
+Saya seorang **mahasiswa di universitas teknologi digital indonesia** di [UTDI](https://www.utdi.ac.id/).\ 
+
+saat ini saya sedang mengikuti studi independen kampus merdeka dengan mitra [DICODING](https://www.dicoding.com/).\
 
 dan saya saat ini juga sedang bekerja menjadi frelancer software tester enginer di [PT ICP Cipta Prima](https://www.incenplus.com/network_partners.php) sejak 2022.\
 
