@@ -1,4 +1,4 @@
-### Halo semua! 
+## Halo semua! 
 
 Perkenalkan nama saya **Adisufatul Anam**.\
 
@@ -16,7 +16,8 @@ dan saya saat ini juga sedang bekerja menjadi frelancer software tester enginer 
   <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p> <br>
+</p> 
+
 ### You Can Find Me at 
 <p>
   <a href="https://www.linkedin.com/in/adisufatul-anam/" target="_blank">
