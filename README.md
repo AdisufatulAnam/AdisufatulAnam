@@ -36,10 +36,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ### 🔍 You Can Find Me at 
 <p> 
-  <a href="https://www.linkedin.com/in/gilang-adhan/" target="_blank">
+  <a href="https://www.linkedin.com/in/adisufatul-anam/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://www.instagram.com/gilang_adhan/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 </p>
