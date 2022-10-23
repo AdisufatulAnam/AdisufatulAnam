@@ -25,3 +25,21 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img align="left" src="https://img.shields.io/badge/swift-%23FA7343.svg?logo=swift&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Xcode-007ACC??logo=Xcode&logoColor=white"/>
   <br><br>
+  
+  ### Github Statistic
+<p align="left">
+<a href="https://github.com/gilangadhan">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=buefy"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+### 🔍 You Can Find Me at 
+<p> 
+  <a href="https://www.linkedin.com/in/gilang-adhan/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/gilang_adhan/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+</p>
