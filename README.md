@@ -1,16 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
-## Halo semua! 
+<div id="header" align="center">
+<H1>Halo semua! </H1>
+</div>
 
-Perkenalkan nama saya **Adisufatul Anam**.\
 
-Saya seorang **mahasiswa di universitas teknologi digital indonesia** di [UTDI](https://www.utdi.ac.id/).\ 
-
-saat ini saya sedang mengikuti studi independen kampus merdeka dengan mitra [DICODING](https://www.dicoding.com/).\
-
-dan saya saat ini juga sedang bekerja menjadi frelancer software tester enginer di [PT ICP Cipta Prima](https://www.incenplus.com/network_partners.php) sejak 2022.\
+Perkenalkan nama saya **Adisufatul Anam**.\ Saya seorang **mahasiswa di universitas teknologi digital indonesia** di [UTDI](https://www.utdi.ac.id/).\ 
+saat ini saya sedang mengikuti studi independen kampus merdeka dengan mitra [DICODING](https://www.dicoding.com/).\ dan saya saat ini juga sedang bekerja menjadi frelancer software tester enginer di [PT ICP Cipta Prima](https://www.incenplus.com/network_partners.php) sejak 2022.\
 ### Things I use
 <p> 
   <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
