@@ -17,6 +17,11 @@ dan saya saat ini juga sedang bekerja menjadi frelancer software tester enginer 
   <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="boostrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="wordpress" src="https://img.shields.io/badge/WORDPRESS-9cf?&style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img alt="crom" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
+  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="sublim" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
  
 </p> 
 
@@ -28,4 +33,11 @@ dan saya saat ini juga sedang bekerja menjadi frelancer software tester enginer 
    <a href="https://www.instagram.com/myadisuf/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
+   <a href="https://t.me/adisufatulanam" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-DEDEDE?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/myadisuf/" target="_blank">
+    <img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
 </p>
+
