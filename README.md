@@ -24,7 +24,7 @@ dan saya saat ini juga sedang bekerja menjadi frelancer software tester enginer 
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="boostrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="wordpress" src="https://img.shields.io/badge/WORDPRESS-9cf?&style=for-the-badge&logo=wordpress&logoColor=white"/>
+<!--   <img alt="wordpress" src="https://img.shields.io/badge/WORDPRESS-9cf?&style=for-the-badge&logo=wordpress&logoColor=white"/> -->
   <img alt="crom" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
   <img alt="sublim" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -45,9 +45,10 @@ dan saya saat ini juga sedang bekerja menjadi frelancer software tester enginer 
     <img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
 </p>
+
 ### GitHub Statistic
 <p align="left">
-<a href="https://github.com/nee18">
+<a href="https://github.com/AdisufulAnam">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nee18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nee18&layout=compact&langs_count=8&theme=algolia"/>
 </a>
