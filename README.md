@@ -3,6 +3,7 @@
 </div> -->
 
 <!-- ## hallo semua !! -->
+<img align="right" width="300" src="https://user-images.githubusercontent.com/91861324/200331182-bf9b1de8-935d-41e4-9e37-c5863ca071da.png" >
 
 # 💫 About Me:
 Perkenalkan nama saya **Adisufatul Anam**.\ 
@@ -11,7 +12,7 @@ Saya seorang **mahasiswa di universitas teknologi digital indonesia** di [UTDI](
 
 saat ini saya sedang mengikuti studi independen kampus merdeka dengan mitra [DICODING](https://www.dicoding.com/).\ 
 
-dan saya saat ini juga sedang bekerja menjadi frelancer software tester enginer di [PT ICP Cipta Prima](https://www.incenplus.com/network_partners.php) sejak 2022.\
+saya saat ini juga sedang bekerja menjadi frelancer software tester enginer di [PT ICP Cipta Prima](https://www.incenplus.com/network_partners.php) sejak 2022.\
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/d) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/d) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@d) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/d) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/d) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/d) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/d) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@d) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/d)
 # 💻 Tech Stack:
