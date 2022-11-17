@@ -3,7 +3,7 @@
 </div> -->
 
 <!-- ## hallo semua !! -->
-<img align="right" width="350" src="https://user-images.githubusercontent.com/91861324/200331182-bf9b1de8-935d-41e4-9e37-c5863ca071da.png" >
+<img align="right" width="300" src="https://user-images.githubusercontent.com/91861324/200331182-bf9b1de8-935d-41e4-9e37-c5863ca071da.png" >
 
 # 💫 About Me:
 
