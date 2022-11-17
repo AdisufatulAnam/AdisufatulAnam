@@ -11,16 +11,16 @@
 🔭 I'm currently following studi independen for [DICODING](https://www.dicoding.com/).<br>
 🤝 I'm a freelancer software tester enginer at [PT ICP Cipta Prima](https://www.incenplus.com/network_partners.php)<br>
 🌱 I’m currently learning at [UTDI](https://www.utdi.ac.id/)<br>
-💬 Ask me about  [Telegram](https://www.utdi.ac.id/)<br><br>
+💬 Ask me about  [Telegram](https://t.me/adisufatulanam)<br><br>
 ⚡ Fun fact
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/PemudaLemah#4373)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/myadisuf/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/PemudaLemah#4373)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/myadisuf/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adisufatul-anam) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://t.me/adisufatulanam)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/14934571/adisufatulanam?tab=answers)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nam) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://t.me/adisufatulanam)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14934571/adisufatulanam)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/namtech4) 
 # 💻 Tech Stack:
 <p> 
    <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
