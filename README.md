@@ -40,7 +40,7 @@
 <p align="left">
 <a href="https://github.com/AdisufatulAnam">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdisufatulAnam&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<!--   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nee18&layout=compact&langs_count=8&theme=algolia"/> -->
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdisufatulAnam&theme=dark&hide_border=false"/>
 </a>
 </p>
 
