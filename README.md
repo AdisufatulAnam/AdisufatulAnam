@@ -6,7 +6,6 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/91861324/200331182-bf9b1de8-935d-41e4-9e37-c5863ca071da.png" >
 
 # 💫 About Me:
-
 👯 I'm Adisufatul anam<br>
 🔭 I'm currently following studi independen for [DICODING](https://www.dicoding.com/).<br>
 🤝 I'm a freelancer software tester enginer at [PT ICP Cipta Prima](https://www.incenplus.com/network_partners.php)<br>
@@ -45,7 +44,7 @@
   <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-   <img alt="notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img alt="notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
    </a>
 </p> 
 
