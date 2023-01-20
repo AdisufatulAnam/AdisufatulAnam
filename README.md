@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/91861324/200331182-bf9b1de8-935d-41e4-9e37-c5863ca071da.png" >
 
 # 💫 About Me:
-👯 I'm Adisufatul anam<br>
+👯 I'm Adisufatul anam QA and Fontend web developer<br>
 ⚡  My Portofolio website [ADISUFATULANAM](https://adisufatulanam.netlify.app)<br> 
 🔭 I'm currently following studi independen for [DICODING](https://www.dicoding.com/).<br>
 🤝 I'm a freelancer software tester enginer at [PT ICP Cipta Prima](https://www.incenplus.com/network_partners.php)<br>
